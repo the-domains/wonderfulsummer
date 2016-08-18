@@ -1,0 +1,14 @@
+layout_spectrum: 0.41836599609814584
+typography_spectrum: 0.36393029149621725
+color:
+  brandStrength: 0.6309052337892354
+  lightness: 0.3200072371400893
+  saturation: 0.6305088626686484
+  rhythmicContrast: 0.1548942548688501
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: wonderfulsummer
