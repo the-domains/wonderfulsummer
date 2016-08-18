@@ -6,9 +6,9 @@ color:
   saturation: 0.6305088626686484
   rhythmicContrast: 0.1548942548688501
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: wonderfulsummer
